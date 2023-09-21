@@ -1,0 +1,3 @@
+O jogo pode ser aberto através do aplicativo "Trabalho Impossível", um projeto de teste feito durante um semestre da faculdade, ele propõe controlar o personagem através dos botões "A,S,D,W" ou direcionais, um cenário foi montado e tem como proposta explorar o ambiente para localizar um Sapo Gigante que está escondido, ele não se movimenta e não há uma recompensa ao jogador por encontrá-lo, é um projeto não finalizado resultado de um processo auto-didata.
+
+Os assets são gratuítos, o modelo de personagem e as animações foram importadas do site "Mixamo", a música que acompanha a jogatina se chama "Shy Little Frog". 
